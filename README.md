@@ -37,8 +37,8 @@ A Wordle-style game with custom word categories, built within one week and prese
 
 ## Currently
 
-- 🔨 Building out the Bliss Hour Events site: packages, gallery, and enquiry pages
-- 🔍 Looking for my next role in software development with a team that values collaboration and genuinely invests in helping people grow.
+- Building out the Bliss Hour Events website: packages, gallery, and enquiry pages
+- Looking for my next role in software development with a team that values collaboration and genuinely invests in helping people grow.
 
 ## Connect
 
