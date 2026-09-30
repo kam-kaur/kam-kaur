@@ -20,8 +20,8 @@ A full-stack website for a local photobooth business, built from scratch, real c
 - **The "why":** I really enjoy the design and UX side of building something, thinking through how a page should feel and flow, not just whether it works. This project let me own that end-to-end for a real client.
 
 
-### 🔤 [Wordle-style game](your-repo-url-here) (Group project, final Dev Academy build)
-A Wordle-style game with custom word categories, built in one week.
+### 🔤 [Wordle-style game] (Group project, Dev Academy)
+A Wordle-style game with custom word categories, built within one week and presented. 
 
 - **Tech:** React, PostgreSQL, Auth0, Tailwind CSS
 - **My role:** front-end functionality and UX, win-detection logic, a give-up option with word reveal, custom sound effects, and overall game styling
