@@ -10,9 +10,9 @@ I taught myself the fundamentals on freeCodeCamp, then formalised it through Dev
 
 Since finishing, I've been building a full-stack website for my brother's local business, from planning and design through to client needs and user experience. 
 
-## Featured projects
+## Projects
 
-### 🎟️ Bliss Hour Events (currently in progress)
+### Bliss Hour Events (currently in progress)
 A full-stack website for a local photobooth business, built from scratch, real client, real requirements.
 
 - **Tech:** React, TypeScript, Sass, Vite
@@ -20,7 +20,7 @@ A full-stack website for a local photobooth business, built from scratch, real c
 - **The "why":** I really enjoy the design and UX side of building something, thinking through how a page should feel and flow, not just whether it works. This project let me own that end-to-end for a real client.
 
 
-### 🔤 [Wordle-style game] (Group project, Dev Academy)
+### [Wordle-style game] (Group project, Dev Academy)
 A Wordle-style game with custom word categories, built within one week and presented. 
 
 - **Tech:** React, PostgreSQL, Auth0, Tailwind CSS
