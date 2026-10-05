@@ -1,6 +1,6 @@
 # Hi, I'm Kam 👋
 
-Physiotherapy background and current Software Developer. Based in Auckland, open to remote. I build with React, TypeScript, Node.js, and PostgreSQL.
+Physiotherapy background and current Software Developer. Based in Auckland, open to remote. 
 
 ## About me
 
