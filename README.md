@@ -23,7 +23,7 @@ A full-stack website for a local photo booth business, built from scratch for a 
 ### AFW (Group project, Dev Academy)
 A Wordle-style game with custom word categories, built within one week and presented. 
 
-- **Tech:** React, PostgreSQL, Auth0, Tailwind CSS
+- **Tech:** React, SQLite, PostgreSQL, Auth0, Tailwind CSS
 - **My role:** front-end functionality and UX, win-detection logic, a give-up option with word reveal, custom sound effects, and overall game styling
 - **What I learned:** I knew exactly what the game should do, but turning that into code was a different problem. Checking a guess against the word and deciding when you've won took me far longer than I expected.
 
@@ -31,8 +31,9 @@ A Wordle-style game with custom word categories, built within one week and prese
 
 - **Frontend:** React, TypeScript, Tailwind CSS, Sass
 - **Backend:** Node.js, Express
-- **Databases:** PostgreSQL
+- **Databases:** SQLite, PostgreSQL
 - **Auth:** Auth0
+- **Testing:** Vitest
 - **Tools:** Git, GitHub, Vite, Agile/Scrum
 
 ## Currently
